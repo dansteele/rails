@@ -21,7 +21,7 @@ A short rundown of some of the major features:
    end
 
   {Learn more}[link:classes/ActiveRecord/Base.html]
-
+  ([Learn more](classes/ActiveRecord/Base.html))
 The Product class is automatically mapped to the table named "products",
 which might look like this:
 
